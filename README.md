@@ -74,6 +74,10 @@ The following properties are supported:
   `ADB` connections to the emulator.
 - `params` (object): This data will be passed to your app on launch.
 
+Any other supplied property will be passed to the generated `<iframe>` object so
+you can set properties such as `frameBorder='0'` and `scrolling='no'`on the
+resulting `<iframe>`.
+
 ## License
 
 [MIT](LICENSE)
