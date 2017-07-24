@@ -1,6 +1,6 @@
 {
   "name": "appetizer-component",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React Component to integrate appetize.io devices in your application",
   "main": "./lib",
   "browser": "./index",
