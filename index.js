@@ -111,6 +111,8 @@ export default class Appetizer extends Component {
 Appetizer.defaultProps = {
   endpoint: 'https://appetize.io/embed/',
   device: 'iphone5s',
+  frameBorder: '0',
+  scrolling: 'no',
   scale: 100,
   orientation: 'portrait',
   autoplay: false,
