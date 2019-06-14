@@ -1,5 +1,7 @@
 # appetizer-component
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/godaddy/appetizer-component.svg)](https://greenkeeper.io/)
+
 A React Component to embed the appetize.io uploaded applications in your
 application.
 
