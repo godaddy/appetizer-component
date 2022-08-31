@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/godaddy/appetizer-component#readme",
   "dependencies": {
-    "querystringify": "^1.0.0",
+    "querystringify": "^2.0.0",
     "rip-out": "^1.0.0"
   },
   "babel": {
